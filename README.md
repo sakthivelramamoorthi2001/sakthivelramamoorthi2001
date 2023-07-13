@@ -5,7 +5,7 @@
 
 <div align="center">
   <div style="display: flex;flex-direction:row;width:50%">
-   <div style="width:50%">
+   
   - 🔭 I’m currently working on [vgts](https://vgts.tech/)
 
 - 🌱 I’m currently learning **data structure and algorithm**
@@ -15,13 +15,14 @@
 - 📫 How to reach me **sakthivel.ramamoorthi2001@gmail.com**
 
 - ⚡ Fun fact **addicted with coding**
-</div>
 
-   <a href="https://app.daily.dev/sakthi_vishgyana"  style="width:50%" ><img src="https://api.daily.dev/devcards/6999137228f3488682d7e053c3f08ee3.png?r=vxh" width="400" alt="Sakthivel R's Dev Card"/></a>
-    
+
+  
 </div>
   </div>
 </div>
+
+
 
 <div style="display: flex;">
 
