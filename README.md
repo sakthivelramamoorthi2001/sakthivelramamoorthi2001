@@ -3,6 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthivel-ramamoorthi2001&label=Profile%20views&color=0e75b6&style=flat" alt="sakthivel-ramamoorthi2001" /> </p>
 
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+  </div>
+</div>
+
 <div style="display: flex;">
 <div>
   - 🔭 I’m currently working on [vgts](https://vgts.tech/)
