@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakthivel-ramamoorthi2001&label=Profile%20views&color=0e75b6&style=flat" alt="sakthivel-ramamoorthi2001" /> </p>
 
-<div align="center">
+
 
    
   - 🔭 I’m currently working on [vgts](https://vgts.tech/)
@@ -19,7 +19,6 @@
 
   
 
-  </div>
 </div>
 
 
