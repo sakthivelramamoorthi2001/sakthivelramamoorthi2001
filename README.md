@@ -17,7 +17,7 @@
 - ⚡ Fun fact **addicted with coding**
 
 
- <a href="https://app.daily.dev/sakthi_vishgyana"  style="width:50%" ><img src="https://api.daily.dev/devcards/6999137228f3488682d7e053c3f08ee3.png?r=vxh" width="400" alt="Sakthivel R's Dev Card"/></a>
+ <a href="https://app.daily.dev/sakthi_vishgyana"   ><img src="https://api.daily.dev/devcards/6999137228f3488682d7e053c3f08ee3.png?r=vxh" width="250" alt="Sakthivel R's Dev Card"/></a>
     
 
 
