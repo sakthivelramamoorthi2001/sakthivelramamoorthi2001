@@ -5,13 +5,7 @@
 
 <div align="center">
   <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
-  </div>
-</div>
-
-<div style="display: flex;">
-<div>
+   <div>
   - 🔭 I’m currently working on [vgts](https://vgts.tech/)
 
 - 🌱 I’m currently learning **data structure and algorithm**
@@ -23,8 +17,14 @@
 - ⚡ Fun fact **addicted with coding**
 </div>
 
-  <a href="https://app.daily.dev/sakthi_vishgyana"><img src="https://api.daily.dev/devcards/6999137228f3488682d7e053c3f08ee3.png?r=vxh" width="400" alt="Sakthivel R's Dev Card"/></a>
+    <a href="https://app.daily.dev/sakthi_vishgyana"><img src="https://api.daily.dev/devcards/6999137228f3488682d7e053c3f08ee3.png?r=vxh" width="400" alt="Sakthivel R's Dev Card"/></a>
 </div>
+  </div>
+</div>
+
+<div style="display: flex;">
+
+ 
 
 
 
