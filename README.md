@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **data structure and algorithm**
 
-- 💬 Ask me about **html css js vue react java**
+- 💬 Ask me about **Web Dev**
 
 - 📫 How to reach me **sakthivel.ramamoorthi2001@gmail.com**
 
